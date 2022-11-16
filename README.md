@@ -11,3 +11,5 @@ python world.py
 ~~~~
 
 # Muestra 
+
+<img src="map.PNG">
