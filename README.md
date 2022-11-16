@@ -1,6 +1,14 @@
 # svg_map_python
 
  Al ejecutar este script se crea un mapa SVG, donde se ve de colores España, Francia y Italia.
+ 
+ 
+## Antes de ejecutar el script
+
+~~~~
+
+pip install pygal_maps_world
+~~~~
 
 ## Uso del Script
 
