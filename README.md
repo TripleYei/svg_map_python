@@ -32,6 +32,7 @@ Antes de ejecutar el script
 ~~~~
 pip install pyfiglet
 ~~~~
+## Uso de la herramienta
 ~~~~
 python mundo.py nombre_del_mapa es fr it  
 
