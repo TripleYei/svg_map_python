@@ -28,6 +28,10 @@ Se crea un archivo .svg, donde has ejecutado el anterior comando, al abrir el ar
 
 ## Uso de la herramienta automatizada
 
+Antes de ejecutar el script
+~~~~
+pip install pyfiglet
+~~~~
 ~~~~
 python mundo.py nombre_del_mapa es fr it  
 
