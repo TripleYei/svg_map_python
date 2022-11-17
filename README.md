@@ -20,6 +20,20 @@ python world.py
 
 Se crea un archivo .svg, donde has ejecutado el anterior comando, al abrir el archivo se muestra lo siguiente.
 
-# Resultado
+## Resultado
 
 <img src="map.PNG">
+
+
+
+## Uso de la herramienta automatizada
+
+~~~~
+python mundo.py nombre_del_mapa es fr it  
+
+es --> España
+fr --> Francia
+it --> italia
+
+Solo le puedes pasar 4 parametros : el nombre del mapa y tres países.
+~~~~
